@@ -83,6 +83,133 @@ The Spanish plural indeﬁnite article (English some) is unos before a masculine
 
 **Adjectives**
 
-A Spanish adjective agrees in gender and number with the noun it modiﬁes. In Spanish, an adjective almost always follows the noun it describes.
+A Spanish adjective agrees in gender and number with the noun it modiﬁes. In Spanish, an adjective almost always follows the noun it describes. 
+
+Adjectives that end in -o are masculine in form and agree with a masculine noun.
+
+el libro blanco	the white book
+el gato negro	the black cat
+
+Adjectives that end in -o change the -o to -a when describing a feminine noun.
+
+la casa blanca	the white house
+la chaqueta negra	the black jacket
+
+Adjectives that do not end in -o have the same form for describing both masculine and feminine nouns.
+
+el libro excelente	the excellent book
+la comida excelente	the excellent food
+el poema difícil	the difficult poem
+la lección difícil	the difficult lesson
+
+Adjectives that end in a vowel add -s to form a plural to agree with the noun.
+
+blanco	blancos
+excelente	excelentes
+
+Adjectives that end in a consonant add -es to form the plural.
+
+joven	jóvenes
+marrón	marrones
+
+Adjectives agree in gender and number with the noun they modify.
+
+el hombre hermoso	los hombres hermosos
+el tiquete caro	los tiquetes caros
+la persona simpática	las personas simpáticas
+la tienda vieja	las tiendas viejas
+
+# Estar, Ser, and Subject Pronouns
+
+**Subject Pronouns**
+
+Singular
+yo	I
+tú	you (familiar)
+él	he
+ella	she
+usted	you (formal)
+Plural
+nosotros	we
+vosotros	you (familiar, plural, only used in Spain)
+ellos	they (also used for mixed groups)
+ellas	they (female only groups)
+ustedes	you (plural, formal and familiar in Latin America)
+
+There is no subject pronoun it in Spanish. Él and ella refer to people and sometimes to animals, but not to things.
+
+Estar (to be). Spanish has two verbs that are equivalent to English to be. 
+
+yo estoy	I am
+tú estás	you are
+él está	he is
+ella está	she is
+usted está	you are
+nosotros estamos	we are
+vosotros estáis	you are
+ellos están	they are
+ellas están	they are
+ustedes	están	you are
+
+'Estar' is used to express four basic concepts: location, health, changing mood or condition, and personal opinion in terms of taste or appearance.
+
+Yo estoy en la clase.	I am in the class.
+El restaurante está en la ciudad.	The restaurant is in the city.
+¿Estás tú en el hospital?	Are you in the hospital?
+
+Ella está enferma.	She is sick.
+Estamos bien.	We are well.
+
+La muchacha está contenta.	The girl is happy.
+¿Estás enojado?	Are you angry?
+
+La comida está buena.	The meal is (tastes) good.
+Ella está hermosa hoy.	She is (looks) pretty today.
+
+The verb, which carries the action of the phrase, is the essential element of the Spanish sentence or question because of the amount of information it
+contains.
+
+Often the pronouns yo, tú, and nosotros are omitted. This is possible because estoy can only mean I am, estás means you are whether tú is included or not, and estamos carries the meaning we are.
+
+Ser (to be). The Spanish verb ser is also equivalent to English to be.
+
+yo soy	I am
+tú eres	you are
+él es	he is
+ella es	she is
+usted es	you are
+nosotros somos	we are
+vosotros sois	you are
+ellos son	they are
+ellas son	they are
+ustedes	son	you are
+
+Ser is used to express seven basic concepts: description, profession, point of origin, identiﬁcation, material, possession or ownership, and where an event takes place.
+
+El libro es azul.	The book is blue.
+¿Es la ﬂor amarilla?	Is the ﬂower yellow?
+
+Ellas son maestras excelentes.	They are excellent teachers.
+José es estudiante	José is a student. (Unmodified professions dot use an indefinite article)
+José es un estudiante fantástico.	JJosé  is an excellent student (modified professions use an indefinite article)
+
+Yo soy de Nueva York.	I am from New York.
+Somos de Italia.	We are from Italy.
+El café es de Brazil.	The coffee is from Brazil.
+
+Note that Spanish sentences never end in a preposition (e.g., Where are you from in English, ¿De donde eres? in Spanish(lit: From where you?)
+
+Somos amigos.	We are friends.
+Ella es católica.	She is Catholic.
+
+La mesa es de madera.	The table is of wood.
+La bolsa es de plástico.	The bag is of plastic.
+
+La idea es de Pedro.	The idea is Pedro's.
+Los perros son del muchacho.	The dogs belong to the boy.
+
+La ﬁesta es en la casa de José.	The party is (takes place) in Joe’s house.
+La protesta es en la capital.	The protest is (takes place) in the capital.
+
 
 
