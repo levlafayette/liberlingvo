@@ -211,5 +211,117 @@ Los perros son del muchacho.	The dogs belong to the boy.
 La ﬁesta es en la casa de José.	The party is (takes place) in Joe’s house.
 La protesta es en la capital.	The protest is (takes place) in the capital.
 
+## Hay, Interrogative Words, Days, and Months
+
+**Hay**
+
+The single Spanish word hay (pronounced like English eye) means there is, there are, is there?, and are there? in English. The Spanish deﬁnite articles el, la, los, and las (English the) never follow hay.
+
+Hay una alfombra en la casa.	There is a rug in the house.
+Hay dos vasos en la mesa.	There are two glasses on the table.
+
+A question formed with hay uses the same word order as a statement. When spoken, it should be pronounced with a rising intonation.
+
+¿Hay un hotel en la ciudad?	Is there a hotel in the city?
+
+When hay is followed by a plural noun, the article is omitted.
+
+Hay estrellas en el cielo.	There are stars in the sky.
+
+To make a sentence negative, place no before hay.
+
+No hay luz en el baño.	There is no light in the bathroom.
+No hay teléfonos aquí.	There are no telephones here.
+
+**Interrogative Words**
+
+¿Cómo? How?
+¿Cómo estás tú?	How are you?
+
+¿Dónde? Where?
+¿Dónde estamos?	Where are we?
+
+¿Quién? (sing.), ¿Quiénes? (pl.) Who?
+¿Quién está aquí?	Who is here?
+¿Quiénes son ellos?	Who are they?
+
+¿Qué? What?
+¿Qué hay en el menú?	What is there on the menu?
+
+¿Qué? used before ser asks for a deﬁnition.
+¿Qué es esto?	What is this?
+¿Qué es ﬁlosofía?	What is philosophy?
+
+¿Cuál? (sing.), ¿Cuáles? (pl.) Which, which one? Which ones?
+¿Cuál? used immediately before ser asks for a selection or choice from among various possibilities.
+¿Cuál es la capital de Perú?	What (which city) is the capital of Peru?
+¿Cuál es el problema?	What (which problem) is the problem?
+
+¿Por qué? Why?
+¿Por qué es azul el cielo?	Why is the sky blue?
+
+¿Cuánto? How much?
+¿Cuánto es?	How much is it?
+¿Cuánto cuesta?	How much does it cost?
+
+¿Cuántos?, ¿Cuántas? How many?
+Cuántos and cuántas are adjectives and must agree in gender with the plural nouns they describe.
+¿Cuántos gatos hay en la ciudad?	How many cats are there in the city?
+¿Cuántas estrellas hay en el cielo?	How many stars are there in the sky?
+
+¿Cuándo? When?
+¿Cuándo es la ﬁesta?	When is the party?
+¿Cuándo es el concierto?	When is the concert?
+
+**Prepositions**
+
+The three most common prepositions are en (in, on), de (from, of) and con (with). These can be combined with interrogatives for more complex questions.
+
+¿En qué tienda hay muchos libros?	In what store are there many books?
+¿De dónde es el hombre?	Where is the man from?
+
+**Days of the Week, Months, and Seasons**
+
+Los días de la semana
+In Spanish, the article el is used with the name of the day.
+
+el lunes	Monday, on Monday
+el martes	Tuesday, on Tuesday
+el miércoles	Wednesday
+el jueves	Thursday
+el viernes	Friday
+el sábado	Saturday
+el domingo	Sunday
+
+To form the plural of the days of the week, el changes to los and -s is added only to el sábado and el domingo (los lunes, los martes, los miércoles etc)
+
+Hay clase los lunes.	There is class on Mondays.
+Estamos en clase los miércoles.	We are in class on Wednesdays.
+¿Dónde estás los viernes?	Where are you on Fridays?
+
+Los meses (The months)
+enero	January
+febrero	February
+marzo	March
+abril	April
+mayo	May
+junio	June
+julio	July
+agosto	August
+septiembre	September
+octubre	October
+noviembre	November
+diciembre	December
+
+Las estaciones (The seasons)
+el verano	the summer
+el otoño	the autumn
+el invierno	the winter
+la primavera	the spring
+
+Partes del día (Parts of the day)
+la mañana	the morning
+la tarde	the afternoon
+la noche	the night
 
 
