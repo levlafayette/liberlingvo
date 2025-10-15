@@ -1,4 +1,6 @@
 
+This file includes pronunciation, nouns, articles, and adjectives, subject pronouns, interrogatives, days, months, numbers, dates, and time, and regular verbs in the present tense.
+
 ## Pronunciation
 
 **Vowels**
@@ -119,7 +121,7 @@ el tiquete caro	los tiquetes caros
 la persona simpática	las personas simpáticas
 la tienda vieja	las tiendas viejas
 
-# Estar, Ser, and Subject Pronouns
+## Estar, Ser, and Subject Pronouns
 
 **Subject Pronouns**
 
@@ -323,5 +325,298 @@ Partes del día (Parts of the day)
 la mañana	the morning
 la tarde	the afternoon
 la noche	the night
+
+## Numbers, Dates, and Time
+
+A cardinal number is any number that expresses an amount, such as one, two, three.
+
+0	cero
+1	uno
+2	dos
+3	tres
+4	cuatro
+5	cinco
+6	seis
+7	siete
+8	ocho
+9	nueve
+10	diez
+11	once
+12	doce
+13	trece
+14	catorce
+15	quince
+16	dieciséis
+17	diecisiete
+18	dieciocho
+19	diecinueve
+20	veinte
+21	veintiuno
+22	veintidós
+23	veintitrés
+..	..
+30	treinta	
+31	treinta y uno
+32	treinta y dos
+33	treinta y tres
+..
+40	cuarenta
+41	cuarenta y uno
+42	cuarenta y dos
+43	cuarenta y tres
+..
+50	cincuenta
+51	cincuenta y uno
+52	cincuenta y dos
+53	cincuenta y tres
+..
+60	sesenta	
+61	sesenta y uno
+62	sesenta y dos
+63	sesenta y tres
+..
+70	setenta
+71	setenta y uno
+..
+80	ochenta
+81	ochenta y uno
+..
+90	noventa
+..
+100	cien
+101	ciento uno
+..
+150	ciento ciencuenta
+..
+200	doscientos
+1.000	mil
+1.000.000	un millón
+
+
+In English we say one hundred and ten. Spanish does not use y to connect hundreds and the following number: 110, ciento diez; 220, doscientos veinte; 315, trescientos quince.
+
+When a masculine noun follows the number 21, 31, 41, 51, 61, 71, 81, or 91, the -o is dropped from uno.
+veintiún años	twenty-one years
+treinta y un libros	thirty-one books
+
+When a feminine noun follows a number ending in uno (English one), the feminine form is una.
+cuarenta y una mujeres	forty-one women
+
+Cien becomes ciento if it is followed by any number less than itself. Before all nouns, masculine or feminine, it remains cien. The numbers 200 to 900 agree with the noun they modify (e.g., doscientos hoteles, two-hundred hotels).
+
+Spanish numbers beginning with 1000, mil, are not counted in hundreds (e.g., mil años, one-thousand years, dos mil años, two-thousand years, un millón de dólares, one million dollars). 
+
+Mil does not change (dos mil, tres mil, cinco mil), nor does it need the article un (English a) in front of it.
+
+Spanish does not count in hundreds after 1,000. The number 1992 is formed by combining 1000 + 900 + 92: mil novecientos noventa y dos. The number 2006 is dos mil seis.
+
+The plural miles is used only to refer to a large but inexact amount, the way English uses tons: (Hay miles de personas en el restaurante, There are tons of people in the restaurant).
+
+Spanish uses the period to separate thousands; the comma is used to indicate decimals: $90,25 is noventa dólares y veinticinco centavos.
+
+Ordinal numbers express position in a series, such as ﬁrst, second, third.
+primero	first
+segundo	second
+tercero	third
+cuarto	fourth
+quinto	fifth
+sexto	sixth
+séptimo	seventh
+octavo	eighth
+noveno	ninth
+décimo	tenth
+
+Ordinal numbers in Spanish precede the noun and agree in gender with the noun they describe. Primero and tercero drop the -o before a masculine noun: el primer piso, el tercer piso.
+
+el primer hombre	the first man
+la primera mujer	the first woman
+
+¿Dónde está la quinta avenida?	Where is Fifth Avenue?
+Hay una librería en la sexta calle.	There is a bookstore on Sixth Street.
+
+Ordinal numbers are used for kings, queens, popes, and centuries; in this case, they follow the noun they describe.
+
+El siglo segundo	The second century
+Carlos Quinto	Charles the Fifth
+
+Beginning with the ordinal number eleventh, state the noun ﬁrst, then the cardinal number. Thus Eleventh Street is expressed as la calle once (English the street eleven).
+
+la lección veintitrés	the twenty-third lesson (the lesson twenty-three)
+
+**The Date**
+
+Spanish uses the cardinal numbers 2 to 31 to indicate all days of the month except the ﬁrst.
+
+¿Cuál es la fecha de hoy?	What is today’s date?
+Hoy es el cinco de mayo.	Today is May 5.
+Mañana es el seis de mayo.	Tomorrow is May 6.
+Es el veintiocho de febrero.	It is February 28.
+
+Spanish uses an ordinal number only to indicate the ﬁrst of the month, el primero del mes.
+Hoy es el primero de junio.	Today is June 1.
+
+**Telling Time**
+
+To express time in the sense of telling time, Spanish uses la hora. ¿Qué hora es? What hour is it? What time is it?
+
+In order to tell time, Spanish always uses the third-person singular or plural of ser. Start by learning the expressions for telling exact time on the hour, from one o’clock to twelve o’clock. La represents la hora, and las represents las horas.
+Es la una	Es la una.
+Son las dos.	It is two o’clock.
+
+The part of day is speciﬁed as follows.
+de la mañana	(of the) morning
+de la tarde	(of the) afternoon
+de la noche	(of the) night
+
+To indicate the exact hour or “sharp,” Spanish uses exactamente or en punto.
+
+To indicate an approximate time, Spanish uses a eso de + the hour or the hour + más o menos.
+Es a eso de la una.	It’s about one o’clock.
+
+To express a time after the hour, state the hour + y (English and, plus) + the number of minutes.
+Es la una y veinte.	It is 1:20. (It is one o’clock plus twenty minutes.)
+
+When it is a quarter after the hour, Spanish uses quince (English ﬁfteen) or cuarto (English quarter).
+Son las tres y quince.	It is 3:15. (It is three o’clock plus ﬁfteen minutes.)
+
+When it is half past the hour, Spanish uses treinta (English thirty) or media (English half ).
+Son las nueve y treinta.	It is 9:30. (It is nine o’clock plus thirty minutes.)
+
+To express a time before the hour, state the hour + menos (English minus) + the number of minutes. This subtracts the minutes from the hour.
+Son las tres menos diez.	It is 2:50. (It is three o’clock minus ten minutes.)
+
+An alternate way to express time before the hour is to state the number of minutes + para + the hour. This expression, which closely follows English syntax, is not a full sentence.
+Cinco para las tres.	Five (minutes) to three (o’clock).
+
+To indicate that something is happening at a certain time, Spanish uses an expression with the preposition a (English at).
+
+¿A qué hora?	At what hour? At what time?
+A la una.	At one o’clock.
+
+The expressions for after the hour (the hour + y + the number of minutes) and before the hour (the hour + menos + the number of minutes) remain the same after a.
+
+A las cuatro y diez.	At 4:10.
+A las once menos veinticinco.	At 10:35.
+
+# Regular Verbs
+
+All Spanish verbs belong to one of three classiﬁcations, called conjugations, depending on the ending of the inﬁnitive. All inﬁnitives end in -ar, -er, or -ir.
+
+Each conjugation has its own set of endings that are added to the stem of the verb.
+verb stem + inﬁnitive ending = inﬁnitive
+cant + ar = cantar
+com + er = comer
+viv + ir = vivir
+
+Verbs are considered regular if there is no change in the stem when it is conjugated.
+
+The present tense is used to express the English simple present (I sing) and the English present progressive tense (I am singing).
+
+Ella canta una canción triste. She sings a sad song, She is singing a sad song.
+
+Questions are formed by inverting the subject and the verb. Questions can also be indicated by rising intonation, without a change in word order.
+
+¿Cantas tú los domingos?	Do you sing on Sundays?
+¿Tú cantas los domingos?	You sing on Sundays?
+
+The present tense can be used to express a future event if an adverbial expression of future time is included.
+
+Ella canta con Usted mañana.	She’ll sing with you tomorrow.
+
+To make a sentence negative, place no directly before the verb.
+
+No canto en el tren.	I don’t sing in the train.
+
+**-Ar Verbs**
+
+To conjugate a regular -ar verb in the present tense, drop the inﬁnitive ending and add -o, -as, -a, -amos, -áis, -an to the stem.
+
+cantar to sing (infinitive)
+
+yo canto	I sing
+tú cantas	you sing
+él canta	he sings
+ella canta	she sings
+Usted canta	you sing
+nosotros cantamos	we sing
+vosotros cantáis	you (pl.) sing
+ellos cantan	they sing
+ellas cantan	they sing
+Ustedes cantan	you (pl.) sing
+
+**The Preposition a**
+
+The preposition a means to in English. When a is followed by the masculine el (meaning the), the words contract to al (meaning to the). This is one of only two contractions in Spanish.
+
+Caminamos al hotel.	We walk to the hotel.
+
+A contraction is not formed when a is followed by the feminine la or by the plural articles los or las.
+
+Caminamos a la tienda.	We walk to the store.
+Ella viaja a las ciudades grandes.	She travels to the large cities.
+
+**-Er Verbs**
+
+To conjugate a regular -er verb in the present tense, drop the inﬁnitive ending and add -o, -es, -e, -emos, -éis, -en to the stem.
+
+comer to eat (infinitive)
+
+yo como	I eat
+tú comes	you eat
+él come	he eats
+ella come	she eats
+Usted come	you eat
+nosotros comemos	we eat
+vosotros coméis	you eat
+ellos comen	they eat
+ellas comen	they eat
+Ustedes comen	you eat
+
+**-Ir Verbs**
+
+To conjugate a regular -ir verb in the present tense, drop the inﬁnitive ending and add -o, -es, -e, -imos, -ís, -en to the stem.
+
+vivir	to live (infinitive)
+
+yo vivo	I live
+tú vives	you live
+el vive	he lives
+ella vive	she lives
+Usted vive	you live
+nosotros vivimos	we live
+vosotros vivís	you live
+ellos viven	they live
+ellas viven	they live
+Ustedes viven	you live
+
+**-Ar and -er Verbs with More than One Meaning**
+
+deber should, ought to, must (plus inﬁnitive), to owe
+Ella debe comer mejor.	She ought to eat better.
+Él debe mucho dinero.	He owes a lot of money.
+
+ganar to win, to earn
+Cecilia siempre gana el primer premio.	Cecilia always wins ﬁrst prize.
+Raúl gana quinientos dólares cada semana.	Ralph earns 500 dollars each week.
+
+llevar to carry, to wear
+Llevo una bolsa de plástico a la tienda.	I carry a plastic bag to the store.
+Ella no lleva un abrigo hoy.	She isn’t wearing a coat today.
+
+pasar to pass (by), to happen, to spend (time)
+El tiempo pasa.	Time passes.
+¿Qué pasa?	What’s happening?
+Ella pasa mucho tiempo con los turistas.	She spends a lot of time with the tourists.
+
+tocar to touch, to play (an instrument)
+El experto toca la mesa antigua.	The expert touches the antique table.
+María toca bien el piano.	Maria plays the piano well.
+
+tomar to take, to have (something to drink), to have (breakfast, lunch, dinner)
+Tomamos el tren al trabajo.	We take the train to work.
+Tomo café negro cada mañana.	I drink black coffee every morning.
+Ella toma el desayuno a las ocho.	She has breakfast at eight o’clock.
+Toma el almuerzo a la una y la cena a las siete.	She has lunch at one o’clock and dinner at seven o’clock.
+
 
 
