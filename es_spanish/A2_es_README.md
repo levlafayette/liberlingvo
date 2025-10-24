@@ -131,13 +131,88 @@ nosotros acabamos de decidir	we have just decided
 vosotros acabáis de pagar	you have just paid
 ellos acaban de volver	they have just returned
 
+dejar de + inﬁnitive to stop (doing something)
+yo dejo de fumar	I stop smoking
+tú dejas de comer	you stop eating
+ella deja de bailar	she stops dancing
+nosotros dejamos de trabajar	we stop working
+vosotros dejáis de beber	you stop drinking
+ellas dejan de estudiar	they stop studying
 
+tener que + inﬁnitive to have to (do something)
+yo tengo que ir	I have to go
+tú tienes que cocinar	you have to cook
+él tiene que hablar	he has to speak
+nosotros tenemos que caminar	we have to walk
+vosotros tenéis que escuchar	you have to listen
+ellos tienen que descansar	they have to rest
 
+tratar de + inﬁnitive to try to (do something)
+yo trato de leer	I try to read
+tú tratas de limpiar	you try to clean
+Usted trata de contestar	you try to answer
+nosotros tratamos de escribir	we try to write
+vosotros tratáis de correr	you try to run
+Ustedes tratan de nadar	you try to swim
 
+volver a + inﬁnitive to do (something) again
+yo vuelvo a leer	I read again
+tú vuelves a cocinar	you cook again
+Usted vuelve a mentir	you lie again
+nosotros volvemos a conversar	we speak again
+vosotros volvéis a cantar	you sing again
+Ustedes vuelven a ganar	you win again
 
+**Useful Words: que and para**
+
+The Relative Pronoun que
+Spanish que (English that, which, or who) is the most common relative pronoun in everyday speech. Que can refer to persons or things, either singular or plural.
+
+El programa que miro los viernes es interesante.	The program that I watch on Fridays is interesting.
+Ella tiene un amigo que vive en el campo.	She has a friend who lives in the countryside.
+
+The relative pronoun que can also be used after prepositions. As the object of a preposition, que refers to a thing or things only. It does not refer to a person or persons.
+
+El libro en que escribimos es viejo.	The book in which we write is old.
+Ella tiene un bastón con que caminar.	She has a cane with which to walk.
+
+One of the uses of conjunctions is to join two sentences into a single sentence. Spanish que (English that) used as a conjunction may join a main clause and a dependent (or subordinate) clause to form a sentence or question.
+
+El maestro sabe que los estudiantes entienden.	The teacher knows that the students understand.
+Él piensa que la lección es fácil.	He thinks that the lesson is easy.
+
+The English word that, whether it is used as a relative pronoun or as a conjunction, is often omitted. In Spanish, que is never omitted.
+
+The Preposition 'para' 
+The Preposition 'para' has two meanings in English 'for' and 'in order to'
+
+La pregunta es para María.	The question is for María.
+Mañana, el barco sale para Cuba.	Tomorrow the boat sails for Cuba.
+Ella va a estudiar para el examen.	She is going to study for the exam.
+
+Comemos para vivir.	We eat in order to live.
+Ella baila para estar alegre.	She dances in order to be happy.
+Él estudia para ser doctor.	He studies in order to be a doctor.
+
+**Time Expressions with hacer**
+
+To ask how long someone has been doing something, Spanish uses the present tense. The translation of this construction is equivalent to the present perfect tense in English. The action begins in the past and continues into the present.
+
+¿Cuánto tiempo hace que + verb in the present tense
+
+¿Cuánto tiempo hace que él estudia el francés?	How long has he been studying French?
+¿Cuánto tiempo hace que la muchacha mira televisión?	How long has the girl been watching television?
+
+To answer the question of how long someone has been doing something, Spanish uses the following expression.
+Hace + length of time + que + verb in the present tense
+
+Hace quince años que yo vivo aquí.	I have been living here for ﬁfteen years. (literally, It makes ﬁfteen years that I live here.)
+Hace seis semanas que viajamos.	We have been traveling for six weeks.
+Hace una hora que ella mira televisión.	She has been watching television for an hour.
 
 
 ## Adjectives and Adverbs
+
 
 
 ## Negatives and Prepositions
