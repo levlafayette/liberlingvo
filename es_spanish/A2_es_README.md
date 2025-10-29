@@ -277,5 +277,89 @@ Adjectives that end in vowels other than -o do not change.
 el hombre canadiense	the Canadian man
 la mujer canadiense	the Canadian woman
 
+**Adjectives That Precede a Noun**
+
+There are a few adjectives that precede the noun; most follow the noun. Two frequently used adjectives, bueno (good) and malo (bad), drop the -o before a masculine singular noun.
+
+Este niño es un buen estudiante.	This child is a good student.
+Su hermana es una buena estudiante.	His sister is a good student.
+
+Bueno and malo can follow the noun as well as precede it. The use is less frequent, though, and the description loses intensity.
+El hombre bueno.	The (fairly) good man.
+
+mucho a lot of, much, many
+Él no tiene mucho dinero.	He doesn’t have a lot of money
+
+poco a little bit, a few, not much, not many
+Hay poco dinero en este banco y hay pocos clientes.	There is not much money in this bank and not many clients.
+
+bastante, suﬁciente enough
+Ellos ganan suﬁciente dinero y tienen bastante trabajo.	They earn enough money and they have enough work.
+
+ambos both
+Los viajeros van a visitar ambos países.	The travelers are going to visit both countries
+
+cada each
+Cada casa tiene dos baños.	Each house has two bathrooms.
+
+varios several
+Varios restaurantes sirven tacos.	Several restaurants serve tacos.
+
+alguno some 
+Él va a volver algún día.	He is going to return some day.
+Alguno drops the -o before a masculine noun.
+
+todo all, every
+Ella lee todo el día.	She reads all day.
+Él escribe todos los días.	He writes every day.
+
+próximo next
+Vamos a viajar el próximo año.	We are going to travel next year.
+
+único only
+Ricardo es el único mexicano aquí.	Ricardo is the only Mexican here.
+
+último last, ﬁnal
+El último mes del año es diciembre.	The last month of the year is December.
+
+Some adjectives have different meanings depending on whether they precede or follow the noun they modify.
+
+antiguo
+su antiguo novio	her former boyfriend
+una civilización antigua	an ancient civilization
+
+cierto
+cierto día 	a certain day
+una cosa cierta	a sure thing
+
+grande
+el gran hombre	the great man
+la gran mujer	the great woman
+el hombre grande	the big man
+la mujer grande	the big woman
+NOTE: Grande shortens to gran before any singular noun.
+
+pobre
+el pobre niño	the poor, unfortunate little boy
+el hombre pobre	the poor man (without money)
+
+mismo
+el mismo libro	the same book
+la misma idea	the same idea
+el profesor mismo	the professor himself
+
+When mismo follows a noun or pronoun, it intensiﬁes the word it describes.
+esta casa misma	this very house
+yo mismo	I myself
+ahora mismo	right now
+
+viejo
+los viejos amigos	the longtime friends
+los amigos viejos	the old friends (in years)
+
+**Comparative Adjectives**
+
+The comparative structure expresses more than, less than, or the same as.
+
 
 ## Negatives and Prepositions
