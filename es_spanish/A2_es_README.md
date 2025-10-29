@@ -213,6 +213,69 @@ Hace una hora que ella mira televisión.	She has been watching television for an
 
 ## Adjectives and Adverbs
 
+**Possessive Adjectives**
+Possessive adjectives in Spanish agree in gender and number with the noun they modify. Possessive adjectives precede the noun they modify.
+
+mi, mis my
+Mi hermana quiere ir a España.	My sister wants to go to Spain.
+Mis amigos quieren ir a Portugal.	My friends want to go to Portugal.
+
+tu, tus your (tú form)
+Tu libro está en la mesa.	Your book is on the table.
+Tus lápices están en la silla.	Your pencils are on the chair.
+
+su, sus your (Ud. form), his, her, their
+There is only one form for the third-person possessive: the su and sus form. Su is used before a singular noun to show possession; sus is
+used with a plural noun. Because su/sus can be ambiguous, use the noun + de + the pronoun to clarify.
+
+Necesito su carro.	I need his/her/their car.
+His car or her car?	¿El carro de él o el carro de ella?
+
+nuestro, nuestra, nuestros, nuestras our
+Nuestro tren viene.	Our train is coming.
+Nuestra ﬁesta va a ser fantástica.	Our party is going to be fantastic.
+Nuestros libros son viejos.	Our books are old.
+Nuestras computadoras son nuevas.	Our computers are new.
+
+**Demonstrative Adjectives**
+There are three demonstrative adjectives; they agree in number and gender with the nouns they modify.
+
+
+• Near the speaker
+this	este	esta
+these	estos	estas
+
+• Near the listener
+that	ese	esa
+those	esos	esas
+
+• Far from both speaker and listener
+that (over there)	aquel	aquella
+those (over there)	aquellos	aquellas
+
+Neuter demonstrative pronouns refer to an object that is not known, a statement, or a general idea.
+this esto	that eso	that (farther away in place or time) aquello
+
+¿Qué es esto? ¿Qué es eso?	What is this? What is that?
+Aquello no es necesario.	That is not necessary.
+
+**Adjectives of Nationality**
+When an adjective of nationality ends in a consonant, -a is added to form the feminine.
+
+el restaurante español	the Spanish restaurant
+la comida española	the Spanish meal
+
+In all other cases, the adjectives of nationality that end in -o change to -a when describing a feminine noun.
+
+el hombre cubano	the Cuban man
+la mujer cubana	the Cuban woman
+el hombre australiano	the Australian man
+la mujer australiana	the Australian woman
+
+Adjectives that end in vowels other than -o do not change.
+
+el hombre canadiense	the Canadian man
+la mujer canadiense	the Canadian woman
 
 
 ## Negatives and Prepositions
