@@ -362,4 +362,52 @@ los amigos viejos	the old friends (in years)
 The comparative structure expresses more than, less than, or the same as.
 
 
+More than 
+más + adjetivo + que (more + adjective + than)
+Julia es más fuerte que Juan (Julia is stronger than John)
+
+Less than 
+menos + adjetivo + que (less + adjective + than)
+El libro es menos interesante que la revista (The book is less interesting than the magazine)
+
+The same as
+tan + adjetivo + como (as + adjective + as)
+Estas tortas son tan dulces como esos pasteles. (These cakes are as sweet as those pastries)
+
+**Superlative Adjectives**
+The most/the least
+el (la) más + adjetivo + de (the most + adjective + of)
+el (la) men + adjetivo + de (the least + adjective + of)
+
+NOTE: In the superlative structure, Spanish de can be translated as in.
+¿Quién es la persona más fuerte de su familia? (Who is the strongest person in your family?)
+¿Cuál es la clase menos interesante de la escuela? (Which is the least interesting class in the school?)
+
+**Irregular Comparatives and Superlatives**
+bueno	good
+mejor	better
+el mejor, la mejor	the best (sing.)
+los mejores, las mejores the best (pl.)
+
+malo	bad
+peor	worse
+el peor, la peor	the worst (sing.)
+los peores, las peores	the worst (pl.)
+
+joven	young
+menor	younger
+el menor, la menor	the youngest (sing.)
+los menores, las menores	the youngest (pl.)
+
+Menor refers only to people: mi hermano menor. If you want to compare trees, for example, just use the regular comparative structure: Estos árboles son menos viejos que aquellos árboles.
+
+viejo	old
+mayor	older
+el mayor, la mayor	the oldest (sing.)
+los mayores, las mayores	the oldest (pl.)
+
+Mayor refers only to people: mi hermana mayor. If you want to compare buildings, for example, just use the regular comparative strucure (e.g., Estos ediﬁcios son más viejos que aquellos ediﬁcios.)
+
+
+
 ## Negatives and Prepositions
